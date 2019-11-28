@@ -5,9 +5,9 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "ru.poker.app"
         versionCode = "10"
-        version     = "1.0.0">
+        version     = "1.1.0">
 
-    <name>ТЕСТ. poker.ru</name>
+    <name>poker.ru</name>
 
     <description>
         Главный покерный ресурс рунета. Теперь на Android!
